@@ -253,7 +253,7 @@ Weather-AQI-Prediction-Lab/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Weather-AQI-Prediction-Lab.git
+git clone https://github.com/kirti095/Weather-AQI-Prediction-Lab.git
 ```
 
 ### 2. Navigate to the Project
