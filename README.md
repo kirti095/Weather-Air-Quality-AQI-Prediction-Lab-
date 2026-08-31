@@ -403,3 +403,7 @@ Feedback and suggestions are always welcome!
 
 Try the Weather & AQI Prediction dashboard and explore the interactive
 visualizations and environmental insights.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
