@@ -1,0 +1,6 @@
+{
+  "name": "Weather & Air Quality Prediction Lab",
+  "description": "An interactive analytics and machine learning prediction dashboard for weather and air quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
